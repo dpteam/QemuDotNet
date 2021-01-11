@@ -6,15 +6,15 @@
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
 
-<img src="https://img.shields.io/github/stars/dports/QemuDotNet.svg?style=flat">
+<img src="https://img.shields.io/github/stars/dpteam/QemuDotNet.svg?style=flat">
 
-<img src="https://img.shields.io/github/languages/top/dports/QemuDotNet.svg">
+<img src="https://img.shields.io/github/languages/top/dpteam/QemuDotNet.svg">
 
-<img src="https://img.shields.io/github/issues/dports/QemuDotNet.svg">
+<img src="https://img.shields.io/github/issues/dpteam/QemuDotNet.svg">
 
-<img src="https://img.shields.io/github/downloads/dports/QemuDotNet/total.svg">
+<img src="https://img.shields.io/github/downloads/dpteam/QemuDotNet/total.svg">
 
-<!--[![Github-CI](https://github.com/dports/QemuDotNet/workflows/CI/badge.svg)](https://github.com/dports/QemuDotNet/actions?query=workflow%3ACI)-->
+<!--[![Github-CI](https://github.com/dpteam/QemuDotNet/workflows/CI/badge.svg)](https://github.com/dpteam/QemuDotNet/actions?query=workflow%3ACI)-->
 
 </p>
 
@@ -33,7 +33,7 @@ QemuDotNet combines the best components from many QEMU Managers from the followi
 Currently based only on [Qemu_GUI](https://github.com/reactos/Qemu_GUI), but we are planning to implement functions from other projects. Like adding/editing/removing machine configs and lot of settings.
 
 ## License
-License information can be found [here](https://raw.githubusercontent.com/dports/QemuDotNet/main/LICENSE).
+License information can be found [here](https://raw.githubusercontent.com/dpteam/QemuDotNet/main/LICENSE).
 
 ## Contributors and other credits...
 [DartPower](https://github.com/dartpower)  
